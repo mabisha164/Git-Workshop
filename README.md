@@ -1,1 +1,1 @@
-# Git-Workshop
+Learning Git from beginnig
